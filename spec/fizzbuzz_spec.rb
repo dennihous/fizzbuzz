@@ -16,7 +16,7 @@ describe "Fizzbuzz passing multiples of 3" do
   end
 end
 
-Tests for multiples of 3
-tests for multiples of 5
-tests for multiples of 15
-tests for non mutiples of 3 not fizz
+"Tests for multiples of 3"
+"tests for multiples of 5"
+"tests for multiples of 15"
+"tests for non mutiples of 3 not fizz"
